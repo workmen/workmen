@@ -14,8 +14,8 @@
    viewBox="0 0 224.16458 232.4023"
    version="1.1"
    id="svg5626"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="celi-P.svg.2018_12_01_10_37_48.0.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="celi-P.svg">
   <defs
      id="defs5620" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.21375914"
-     inkscape:cx="769.80548"
-     inkscape:cy="474.11203"
+     inkscape:cx="-20.803988"
+     inkscape:cy="446.04305"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -392,7 +392,7 @@
     </g>
     <g
        id="g8988"
-       transform="matrix(0.5,0,0,0.5,-277.10428,473.78175)">
+       transform="matrix(0.25,0,0,0.25,-306.08891,229.51251)">
       <circle
          inkscape:export-ydpi="140.50844"
          inkscape:export-xdpi="140.50844"
@@ -584,7 +584,9 @@
     </g>
     <g
        id="layer1-7"
-       transform="matrix(0.26458333,0,0,0.26458333,-355.12387,48.830204)">
+       transform="matrix(0.26458333,0,0,0.26458333,-355.12387,48.830204)"
+       inkscape:export-xdpi="154.40642"
+       inkscape:export-ydpi="154.40642">
       <path
          style="fill:#000000;stroke:#000000"
          id="path3152"
