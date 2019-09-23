@@ -1,7 +1,7 @@
 *#
 *.odt
-*.pdf
 *.ods
+*.sql
 *.tar*
-.LABs/
+.env/
 .TMP/
